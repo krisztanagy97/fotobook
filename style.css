@@ -1,0 +1,109 @@
+/*@media all and (max-width:300px) and (orientation:portrait){
+    body {background-color: burlywood;}
+}*/
+
+/*html {
+    font-size: 20px;
+}
+
+@media all and (max-width:800px){
+    html{
+        font-size: 25px;
+    }
+}
+
+@media all and (max-width:600px){
+    html{
+        font-size: 30px;
+    }
+}
+
+@media all and (max-width:400px){
+    html{
+        font-size: 35px;
+    }
+    body{
+        background-color: red;
+    }
+}
+
+div {
+    font-size: 2em;
+}
+
+p{
+    margin: 0.5rem;
+    font-size: 1.2em;
+}*/
+
+.logo{
+    width:80%;
+    margin-left: 85%;
+    margin-top: -25px;
+}
+
+.logot{
+    width: 100%;
+    margin-left:100%;
+    margin-top:-50px;
+}
+navbar-brand:{
+    padding:0px, 15px;
+}
+.logonak{
+    margin: 5px 0px 50px 0px;
+}
+
+.balrabb{
+    text-align:right;
+    color:black;;
+    font-size: large;
+    font-family: fantasy;
+}
+body{
+    background-color:black;
+}
+
+.pic{
+    width:49.45%;
+    height: 160px;
+    display: inline-block;
+    vertical-align: top;
+}
+.pictab{
+    width:32.94%;
+    height:200px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.pictabs{
+    width:32.94%;
+    height:110px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.container-fluid{
+    padding-right: 1px;
+    padding-left: 1px;
+}
+.navbar{
+    min-height: 45px;
+}
+.elso{
+    margin-left: 9%;
+}
+.lo{
+    padding-left: 3%;
+    padding-top: 3%;
+    display: inline;
+}
+
+.mar{
+    float:none;
+}
+
+.gomb{
+    display:block;
+}
